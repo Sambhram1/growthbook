@@ -634,11 +634,6 @@
       "count": 2
     }
   },
-  "packages/front-end/components/Settings/NewDataSourceForm.tsx": {
-    "no-restricted-imports": {
-      "count": 1
-    }
-  },
   "packages/front-end/components/Settings/SubscriptionInfo.tsx": {
     "no-restricted-imports": {
       "count": 1
